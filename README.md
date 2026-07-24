@@ -1,6 +1,6 @@
 # CPG Data Nerds — website
 
-Plain HTML/CSS/JS, no build step. Three pages: `index.html`, `about.html`, `resources.html`.
+Plain HTML/CSS/JS, no build step. Only Three pages: `index.html`, `about.html`, `resources.html`.
 
 ## Hosting on GitHub Pages (free)
 
